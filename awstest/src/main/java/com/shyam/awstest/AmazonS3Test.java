@@ -19,7 +19,6 @@ public class AmazonS3Test {
 
 	private static final String awsKey = "CHANGEMEKEY";
 	private static final String awsSecret = "CHANGEMESECRET";
-//	key id eg: e7f17ef1-9523-4468-bc3b-5f02decf61f2
 	private static final String encryptionKey = "YOUR KEY ID";
 	private static final String bucketName= "YOURBUCKETNAME";
 	
